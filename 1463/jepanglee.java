@@ -1,5 +1,3 @@
-package com;
-
 import java.util.Scanner;
 
 import static java.lang.Integer.min;
